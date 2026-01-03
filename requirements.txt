@@ -1,0 +1,25 @@
+# Core ML Libraries
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.30.0
+datasets>=2.14.0
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Logging & Experiment Tracking
+tensorboard>=2.13.0
+tqdm>=4.65.0
+
+# Configuration
+pyyaml>=6.0
+
+# Jupyter (for bonus)
+jupyter>=1.0.0
+notebook>=7.0.0
